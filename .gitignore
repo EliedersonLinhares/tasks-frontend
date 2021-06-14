@@ -20,6 +20,7 @@ target/
 *.ipr
 
 ### NetBeans ###
+
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -28,5 +29,6 @@ target/
 build/
 
 ### VS Code ###
+/.history
 .vscode/
 **/.DS_Store
